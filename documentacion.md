@@ -7,7 +7,7 @@ Se notifica que el hay un conflicto y se debe resolver
 Se arregla el error con el editor de GitHub
 ![Conflicto3](Imagenes/Screenshot_3.png)
 
-Se aceptan los cambios y se notifica que ya se puede mergear
+Se aceptan los cambios y se notifica que ya se puede mergear  
 ![Conflicto4](Imagenes/Screenshot_4.png)
 
 ---
