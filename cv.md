@@ -1,4 +1,4 @@
 Nombre: Gaspar Varela
-Documento : 41000000
+Documento : 410000001
 Direccion : Hola 1234
 Estado civil : Soltero
